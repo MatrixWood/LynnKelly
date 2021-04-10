@@ -82,8 +82,8 @@ canvas{
 .history-box h1.year{
    font-size: 90px;
    position: absolute;
-   left: -100px;
-   top: -20px;
+   left: 30%; /*-100px;*/
+   top:  30%; /*-20px; */
    font-weight: bold;
    opacity: 0;
 }
@@ -106,4 +106,26 @@ canvas{
    -webkit-animation-iteration-count: 1;
     -webkit-animation-direction:alternate;
   display: none;
+}
+.button-style1, .button-style2 {
+  position: absolute;
+  top: 40%;
+  opacity: 1;
+  z-index: 100;
+}
+
+.button-style1 {
+position:absolute;
+top:50%;
+  left: 50%;
+  margin-left:-87px;
+  opacity:0;
+}
+.button-style2 {
+position:absolute;
+  top:60%;
+  margin-left:-87px;
+  left: 50%;
+  opacity:0;
+
 }
