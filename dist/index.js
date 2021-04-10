@@ -20377,7 +20377,7 @@ __webpack_require__.r(__webpack_exports__);
 
 var rootPath =  true ? '' : undefined;
 /* harmony default export */ __webpack_exports__["default"] = (vue__WEBPACK_IMPORTED_MODULE_0__["default"].component('app-zhifubao', {
-  template: "<div class=\"app-gooday mobile-body-content padding scroll\">\n            <div class=\"zhifubao-container\">\n                <div class=\"zhifubao-note\">\n                    <div>\u5982\u679C\u4F60\u89C9\u5F97\u6211\u7684\u7F51\u7AD9\u5BF9\u4F60\u6709\u5E2E\u52A9\u6216\u542F\u53D1</div>\n                    <div>\u53EF\u4EE5\u9001\u6211\u4E00\u672C\u60F3\u8BFB\u7684\u4E66\u54E6\uFF01</div>\n                </div>\n                <img class=\"zhifubao-img\" src=\"".concat(rootPath, "assets/pay-zhifubao.png\">\n                <div class=\"zhifubao-note\">\u6216\u652F\u4ED8\u5B9D\u8F6C\u8D26\u81F3 me@zhangwenli.com</div>\n            </div>\n            <div class=\"zhifubao-about\">\n                \u9001\u7FA1\u8F99\u4EFB\u610F\u4E00\u672C\u4E66\uFF0C\u5373\u53EF\u5728\u4E0B\u4E00\u4E2A\u5723\u8BDE\u8282\u7684\u65F6\u5019\uFF0C\u6536\u5230\u4E00\u5F20\u7FA1\u8F99\u81EA\u5236\u7684\u5723\u8BDE\u660E\u4FE1\u7247\u3002Email \u90AE\u5BC4\u5730\u5740\u3001\u90AE\u7F16\u3001\u6536\u4EF6\u4EBA\u81F3 <a href=\"mailto:me@zhangwenli.com\">me@zhangwenli.com</a> \u9886\u53D6\u3002\n            </div>\n        </div>"),
+  template: "<div class=\"app-gooday mobile-body-content padding scroll\">\n            <div class=\"zhifubao-container\">\n                <div class=\"zhifubao-note\" align=\"left\">\n                    <div align=\"left\">hello\uFF0C\u9534\u7433\uFF0C\u563F\u563F\uFF0C\u591A\u5C11\u6709\u70B9\u4E0D\u597D\u610F\u601D\uFF0C\u4E00\u76F4\u597D\u60F3\u8DDF\u4F60\u8BF4\u8BF4\u8BDD\uFF0C\u751F\u65E5\u5FEB\u4E50\u5440~  \u8BDD\u8BF4\u5927\u5BB6\u90FD\u662F\u4E00\u4E2A\u4EBA\u5728\u5916\uFF0C\u670B\u53CB\u95F4\u4EB2\u5982\u5BB6\u4EBA\u7684\u771F\u7684\u597D\u5C11\uFF0C\u5F88\u5F00\u5FC3\u4E0A\u6B21\u4F60\u966A\u6211\u8FC7\u4E86\u751F\u65E5\uFF0C\u53EF\u60DC\u4F60\u7684\u751F\u65E5\u4E0D\u80FD\u966A\u4F60\u4E86\uFF0C\u7136\u540E\u67D0\u5929\u665A\u4E0A\u6211\u7A81\u53D1\u5947\u60F3\uFF0C\u591A\u5C11\u4E5F\u8981\u7559\u70B9\u7EAA\u5FF5\u54C8\u54C8\u54C8\u54C8\uFF0C\u4E8E\u662F\u5C31\u6210\u8FD9\u6837\u4E86(\uFFE3\u25BD\uFFE3)~*\u3002</div>\n                    <br>\n                    <div align=\"left\">\u60F3\u8D77\u5927\u5B66\u91CC\u5927\u5BB6\u90FD\u5FD9\uFF0C\u8054\u7CFB\u4E5F\u5C11\uFF0C\u90A3\u6BB5\u65F6\u95F4\u770B\u5230\u4F60\u5FAE\u535A\uFF0C\u4F60\u4E00\u5B9A\u5F88\u96BE\u5427\uFF0C\u7ECF\u5386\u4E86\u6291\u90C1\u7684\u6298\u78E8\uFF0C\u54EA\u6015\u6709\u4EBA\u5173\u5FC3\u4F60\u5B89\u6170\u4F60\uFF0C\u6700\u540E\u8D70\u51FA\u6765\u4E5F\u53EA\u80FD\u662F\u9760\u81EA\u5DF1\u4E00\u4E2A\u4EBA\uFF0C\u9534\u7433\u771F\u7684\u5F88\u575A\u5F3A\uFF0C\u4F60\u7684\u4E16\u754C\u91CC\u6709\u591A\u5C11\u7684\u4E0D\u6613\uFF0C\u591A\u5C11\u7684\u6CEA\u6C34\uFF0C\u6050\u6015\u65E0\u4EBA\u80FD\u61C2\uFF0C\u4F46\u662F\u611F\u8C22\u9534\u7433\u575A\u5F3A\u7684\u8D70\u51FA\u6765\uFF0C\u9534\u7433\u771F\u7684\u5F88\u68D2\u3002</div>\n                    <br>\n                    <div>\u9534\u7433\u4E5F\u771F\u7684\u5F88\u52AA\u529B\uFF0C\u5927\u5BB6\u90FD\u77E5\u9053\u7684\uFF0C\u9534\u7433\u53EF\u80FD\u4E5F\u6709\u9057\u61BE\uFF0C\u4E5F\u6709\u5BF9\u81EA\u5DF1\u7684\u4E0D\u6EE1\uFF0C\u4E5F\u88AB\u4EBA\u4F24\u5BB3\u8FC7\uFF0C\u4F46\u9534\u7433\u4F9D\u7136\u5F88\u52AA\u529B\uFF0C\u4F60\u77E5\u9053\u5417\uFF0C\u9534\u7433\u8EAB\u4E0A\u7684\u53EF\u9760\u548C\u81EA\u4FE1\u7279\u522B\u611F\u67D3\u4EBA\uFF0C\u9534\u7433\u7684\u90A3\u4E2A\u4EBA\u4E00\u5B9A\u4F1A\u51FA\u73B0\uFF0C\u800C\u4E14\u975E\u5E38\u4F18\u79C0\u3002</div>\n                    <br>\n                    <div>\u9534\u7433\u4E5F\u771F\u7684\u5F88\u8F9B\u82E6\uFF0C\u8BFB\u7814\u592A\u8F9B\u82E6\u4E86\uFF0C\u4E0D\u80FD\u597D\u597D\u5403\u996D\uFF0C\u4F46\u4F60\u7684\u80C3\u771F\u4E0D\u80FD\u518D\u6298\u817E\u4E86\uFF0C\u5FD9\u8D77\u6765\u4E5F\u96BE\u5F97\u597D\u597D\u4F11\u606F\uFF0C\u5FC3\u75BC\u9534\u7433\uFF0C\u4E00\u76F4\u662F\u9534\u7433\u5173\u5FC3\u5927\u5BB6\uFF0C\u9534\u7433\u4E5F\u8981\u7167\u987E\u597D\u81EA\u5DF1\uFF0C\u5927\u5BB6\u6C38\u8FDC\u559C\u6B22\u4F60\u3002</div>\n                    <br>\n                    <div>\u9534\u7433\u6709\u4EC0\u4E48\u56F0\u96BE\u70E6\u607C\u5C31\u548C\u5927\u5BB6\u8BF4\u5427\uFF0C\u5927\u5BB6\u6C38\u8FDC\u542C\u7740\uFF0C\u6C38\u8FDC\u5E2E\u9534\u7433\uFF0C\u6C38\u8FDC\u5FC3\u75BC\u9534\u7433\uFF0C\u6C38\u8FDC\u5B88\u62A4\u9534\u7433\u3002</div>\n                    <br>\n                    <div>-- 2021.4.9 \u51CC\u6668</div>\n                </div>\n            </div>\n            <div class=\"zhifubao-about\">\n                by CanftIn\u3002\n            </div>\n        </div>",
   data: function data() {
     return {};
   },
@@ -21398,7 +21398,7 @@ __webpack_require__.r(__webpack_exports__);
     zh: '日常照片',
     en: 'Routine'
   },
-  photos: ['assets/album/daily/1.jpg', 'assets/album/daily/2.jpg', 'assets/album/daily/3.jpg', 'assets/album/daily/4.jpg']
+  photos: ['assets/album/daily/1.jpg']
 }]);
 
 /***/ }),
@@ -21425,7 +21425,7 @@ __webpack_require__.r(__webpack_exports__);
       zh: '社交网络账号',
       en: 'Social Networks'
     },
-    apps: ['weibo', 'music', 'bilibili']
+    apps: ['weibo', 'music', 'bilibili', 'bilibili_jojo', 'bilibili_zi']
   }]
 }, {
   id: 1,
@@ -21528,6 +21528,24 @@ __webpack_require__.r(__webpack_exports__);
     logoTheme: _themes__WEBPACK_IMPORTED_MODULE_0__["default"].dark,
     link: 'https://space.bilibili.com/245954234/#/'
   },
+  bilibili_jojo: {
+    name: {
+      zh: 'JOJO的奇妙冒险',
+      en: 'Bilibili_jojo'
+    },
+    pos: [1, 0],
+    logoTheme: _themes__WEBPACK_IMPORTED_MODULE_0__["default"].dark,
+    link: 'https://www.bilibili.com/bangumi/play/ss34337/?from=search&seid=6947874177366456382'
+  },
+  bilibili_zi: {
+    name: {
+      zh: '紫罗兰永恒花园',
+      en: 'Bilibili_zi'
+    },
+    pos: [1, 0],
+    logoTheme: _themes__WEBPACK_IMPORTED_MODULE_0__["default"].dark,
+    link: 'https://www.bilibili.com/bangumi/play/ss21542/?from=search&seid=1868437123618054220'
+  },
   dribbble: {
     name: {
       zh: 'Dribbble',
@@ -21565,10 +21583,10 @@ __webpack_require__.r(__webpack_exports__);
   },
   zhifubao: {
     name: {
-      zh: '送羡辙一本书',
-      en: 'Zhifubao'
+      zh: '留言',
+      en: 'Comments'
     },
-    pos: [2, 1],
+    pos: [1, 2],
     logoTheme: _themes__WEBPACK_IMPORTED_MODULE_0__["default"].medium,
     appStatusTheme: _themes__WEBPACK_IMPORTED_MODULE_0__["default"].dark
   },
