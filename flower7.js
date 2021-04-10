@@ -59,8 +59,9 @@ KISSY.add(function (S, Node, Event, Audio) {
                  self.MelodyObj.pause();
               }
            });
-           self.initShare();
+           //self.initShare();
         },
+        /*
         initShare: function() {
             var link = encodeURIComponent(document.location);
             // var title = encodeURIComponent(document.title.substring(0,76));
@@ -77,6 +78,7 @@ KISSY.add(function (S, Node, Event, Audio) {
               window.open(url, windowName, params);
             });
         },
+        */
         play: function () {
            var self = this;
            self.isplay = true;
