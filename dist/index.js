@@ -21566,7 +21566,7 @@ __webpack_require__.r(__webpack_exports__);
   },
   wechat: {
     name: {
-      zh: '微信',
+      zh: '微信--あなたは私の太陽です',
       en: 'Wechat'
     },
     pos: [0, 1],
