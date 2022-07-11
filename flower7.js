@@ -83,7 +83,7 @@ KISSY.add(function (S, Node, Event, Audio) {
            var self = this;
            self.isplay = true;
            self.MelodyObj && self.MelodyObj.play();
-           var timeEvent = "05.03,12.21,12.24,02.29,03.05,03.30,04.01,04.03,04.15,04.20".split(',');
+           var timeEvent = "05.03,12.21,12.24,02.29,03.05,03.30,04.01,04.03,04.15,07.12".split(',');
            // if (S.get('#tips').style.display == 'block') {
                Node.one('#tips') && Node.one('#tips').addClass('animated flipOutX');            
            // }
