@@ -18,7 +18,7 @@ KISSY.add(function (S, Node, Event, Audio) {
        '1986年:郭芯其，香港女歌手。',
        '1988年:艾丽丝·班迪奥，澳洲的超级名模。',
        '1990年:著名网络作家黄现出生。',
-       '1998年:锴琳出生！。'
+       '2002年:欣宝出生！。'
     ];
 
     function Flower7(cfg) {
@@ -34,7 +34,7 @@ KISSY.add(function (S, Node, Event, Audio) {
            this.initAudio();
            this.initEvent();
            if (!!S.UA.webkit) {
-             Node.one('#tips').html('祝锴琳生日快乐！天天开心！早日暴富！');
+             Node.one('#tips').html('祝欣宝生日快乐！天天开心！早日暴富！');
            }
            if (!!S.UA.ipad) {
              Node.one('#tips').html('妈蛋，PAD上有BUG，请到PC上看，说好的MOBILE FIRST呢！哭！');
