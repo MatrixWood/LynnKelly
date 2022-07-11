@@ -21416,7 +21416,7 @@ __webpack_require__.r(__webpack_exports__);
   id: 0,
   groups: [{
     title: {
-      zh: '锴琳挑支口红吧，感谢作者羡辙小姐姐~',
+      zh: '欣宝挑支口红吧，感谢作者羡辙小姐姐~',
       en: 'Websites'
     },
     apps: ['lipstick']
